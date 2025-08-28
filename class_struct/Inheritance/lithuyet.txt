@@ -1,0 +1,4 @@
+Inheritance (C++)
+Inheritance trong C++ là hàm kế thừa, tức là tái sử dụng một hàm qua một hàm khác bằng cách kế thưa, được chia theo làm:
+	Hàm được kế thừa (Superclass, hàm cha
+	Hàm bị kế thừa (Subclass, hàm con

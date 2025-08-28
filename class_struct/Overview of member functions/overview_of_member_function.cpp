@@ -12,4 +12,11 @@ class Member {
         void constFunc() const {
             cout << "Const" << endl;
         }
+};
+
+int main() {
+    member.normalFunc();
+    member.staticFunc();
+    member.constFunc();
+    return 0;
 }
