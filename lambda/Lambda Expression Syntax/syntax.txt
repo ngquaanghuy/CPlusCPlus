@@ -1,0 +1,18 @@
+[capture](paramenter_list) mubtable -> return_type {
+    ... functions body
+}
+
+giai thich:
+    capture: tuc la phan bat bien, cho phep lambda bat bien tu cac scope ngoai truyen vai
+        []: khong bat bien nao
+        [x]: bat bien x theo gia tri copy
+        [&x]: bat bien x theo tham chieu 
+        [=]: bat tat ca bien ben ngoai theo gia tri cooy 
+        [&]: bat tat ca bien ngoai theo tham chieu duoc su dung trong ham 
+        [=, &x]: bat tat ca bien ngoai, ngoai tru x duoc bat theo tham chieu 
+        [&, x]: bat tat ca bien ngoai theo tham chieu, nhung bien x duoc bat theo gia tri 
+
+    paramenter_list: tuc la tham so duoc truyen vao giong ham thong thuong, nhung cung co the bo qua neu khong can thiet 
+    mutable: cho phep thay doi bien theo gia tri torng lambda 
+    return_type: kieu du lieu tra ve, mac dinh se khong can vi trinh bien dich se tu suy dien san cho ban 
+    {}: than ham
