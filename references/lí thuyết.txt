@@ -1,0 +1,7 @@
+References la tham chieu, no duoc su dung nhu dinh nghia lai mot cai ten khac cho mot bien da ton tai
+No khong tao ra bien moi, ma no tao ra mot bi danh de truy cap vao bien goc
+Khi thay doi bien goc qua refercences, thi gia tri bien goc cung thay doi
+
+
+cu phap:
+    type &refName = varName;
