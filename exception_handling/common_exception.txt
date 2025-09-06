@@ -1,0 +1,5 @@
+std::exception (base class)
+std::runtime_error (loi ruhntime)
+std::logic_error (logic sai)
+std::out_of_range, std::overflow_error
+std::underflow_error

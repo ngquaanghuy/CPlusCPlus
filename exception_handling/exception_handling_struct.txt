@@ -1,0 +1,9 @@
+try {
+    ... day la than code
+}
+catch (int e) {
+    cout << "Caught exception: " << e << endl;
+}
+catch (...) {
+    cout << "Caught unknown exception" << endl;
+}
