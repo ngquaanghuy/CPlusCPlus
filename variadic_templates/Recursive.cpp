@@ -7,9 +7,9 @@ void print() {
 }
 
 template<typename First, typename... Args>
-void print(First one, Args... one) {
+void print(First one, Args... two) {
     cout << one << endl;
-    print(one...);
+    print(two...);
 }
 
 
