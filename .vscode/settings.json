@@ -3,6 +3,7 @@
         "ostream": "cpp",
         "limits": "cpp",
         "stdexcept": "cpp",
-        "future": "cpp"
+        "future": "cpp",
+        "string": "cpp"
     }
 }

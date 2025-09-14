@@ -1,0 +1,5 @@
+mảng động 2 chiều
+mảng động 3 chiều
+
+cmatrix
+ma trận

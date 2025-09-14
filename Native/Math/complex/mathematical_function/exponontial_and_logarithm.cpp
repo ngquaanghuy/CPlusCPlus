@@ -30,3 +30,9 @@ int main() {
     math_function();
     return 0;
 }
+
+// Note 
+// Exp: Ham mu phuc, co cong thuc  e^(a+bi) = e^a × (cos(b) + i×sin(b))
+// Log: Logarithm phuc, co cong thuc  log(z) = log(|z|) + i×arg(z)
+// Log10: logarit co so 10 phuc, co cong thuc log10(z) = log(z) / log(10)
+
