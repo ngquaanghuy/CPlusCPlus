@@ -7,7 +7,6 @@ function<int(int, int)> operation;
 int multiply(int a, int b) {
     return a * b;
 }
-
 auto chia(int a, int b) {
     return a / b;
 }
