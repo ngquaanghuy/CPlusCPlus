@@ -1,0 +1,1 @@
+Với kiểu random cũ của C, nó sẽ sinh ra mã máy từ 1 đến 100, nhưng kết quả mà nó tạo ra có thể lỗi dữ liệu
