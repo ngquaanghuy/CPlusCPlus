@@ -1,0 +1,21 @@
+SIGHUP      - treo kết nối (thường bây giờ dùng reload config)
+SIGINT      - Ctrl+C
+SIGQUIT     - Ctrl+\ (quit + core dump)
+SIGILL      - illegal instruction
+SIGTRAP     - trap/breakpoint
+SIGABRT     - abort() 
+SIGBUS      - bus error (truy cập bộ nhớ sai kiểu)
+SIGFPE      - lỗi toán học (chia 0...)
+SIGKILL     - giết ngay (không bắt được)
+SIGUSR1     - định nghĩa bởi user
+SIGUSR2     - định nghĩa bởi user
+SIGSEGV     - segmentation fault (bắn khi trỏ lung tung)
+SIGPIPE     - ghi vào pipe/socket đã đóng
+SIGALRM     - alarm hẹn giờ
+SIGTERM     - terminate “mềm” (kill mặc định)
+SIGCHLD     - process con kết thúc / stopped
+SIGCONT     - tiếp tục process đang stop
+SIGSTOP     - stop ngay lập tức (không bắt được)
+SIGTSTP     - Ctrl+Z
+SIGTTIN     - đọc từ terminal trong background
+SIGTTOU     - ghi ra terminal trong background
